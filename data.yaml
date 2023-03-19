@@ -1,0 +1,12 @@
+names:
+- person
+nc: 1
+roboflow:
+  license: CC BY 4.0
+  project: pson-tst-ml-25
+  url: https://universe.roboflow.com/project/pson-tst-ml-25/dataset/3
+  version: 3
+  workspace: project
+test: ../test/images
+train: pson-tst-ml-25-3/train/images
+val: pson-tst-ml-25-3/valid/images
